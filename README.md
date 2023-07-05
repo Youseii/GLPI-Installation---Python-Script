@@ -1,2 +1,3 @@
-# File_OS_Finder
-Personal Project | Python script to find a specific folder in your computer
+## Python Script to install GLPI
+
+This script install GLPI and librairies who is necessary to GLPI.
