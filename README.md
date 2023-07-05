@@ -8,5 +8,7 @@ GLPI is a web-based application helping companies to manage their information sy
 assets and to manage administrative and financial tasks. The system's functionalities help IT Administrators to create a database of technical resources, 
 as well as a management and history of maintenances actions. Users can declare incidents or requests (based on asset or not) thanks to the Helpdesk feature.
 
+## Installation
+- Run the python Script
 
-This script install GLPI and librairies who is necessary to GLPI.
+** Dont forget to change the password and database name of GLPI if you dont want the default settings
