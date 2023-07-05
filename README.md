@@ -8,7 +8,7 @@ GLPI is a web-based application helping companies to manage their information sy
 assets and to manage administrative and financial tasks. The system's functionalities help IT Administrators to create a database of technical resources, 
 as well as a management and history of maintenances actions. Users can declare incidents or requests (based on asset or not) thanks to the Helpdesk feature.
 
-![Description de l'image](https://blog.digitalcook.fr/glpi/)
+![Logo GitHub](https://github.com/username/repository/raw/main/images/logo.png)
 
 
 This script install GLPI and librairies who is necessary to GLPI.
